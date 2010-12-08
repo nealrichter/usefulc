@@ -1,1 +1,8 @@
-A collection of useful routines, data structures etc in C
+A collection of useful routines, data structures etc in straight C
+
+data_structures
+ - class like data structures and methods
+
+templates
+ - snippets of useful C
+ - empty CLI programs
